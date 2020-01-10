@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "title": "Task 1",
+      "responsible": "William",
+      "description": "Task One with low priority",
+      "priority": "low"
+    }
+  ,
+    {
+      "title": "Task 2",
+      "responsible": "Edward",
+      "description": "Task Two with medium priority",
+      "priority": "medium"
+    }
+  ,
+    {
+      "title": "Task 3",
+      "responsible": "Alexander",
+      "description": "Task three with hight priority",
+      "priority": "hight"
+    }
+  ,
+    {
+      "title": "Task 4",
+      "responsible": "Hernan",
+      "description": "Task four with low priority",
+      "priority": "low"
+    }
+  ]
+}
